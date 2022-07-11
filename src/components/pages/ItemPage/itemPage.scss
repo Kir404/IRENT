@@ -1,0 +1,44 @@
+.item_page {
+   width: 1200px;
+   //align-items: center;
+   margin-left: 50px;
+   display: flex;
+   justify-content: space-between;
+
+.wrapper__item{
+    display: flexbox;
+    justify-content: space-between;
+}
+
+.wrapper__item__info {
+    display: flexbox;
+    justify-content: space-between;
+}
+
+.item__name {
+    color: black;
+}
+
+
+}
+.item_page {
+    // display: flexbox;
+    // justify-content: space-between;
+
+}
+.wrapper__location {
+    // display: flexbox;
+    // justify-content: space-between;
+
+}
+
+.wrapper__rent{
+    // display: flexbox;
+    // justify-content: space-between;
+
+}
+
+.item__img{
+    max-width: 1000px;
+    max-height: 500px;
+}
